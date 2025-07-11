@@ -15,4 +15,4 @@
   - HTML/CSS
   - Bootstrap
 
-## once app is runing you can view it on [app link once live](http://localhost:8080/chat)
+## Once app is running you can view it -> ***[Here](http://localhost:8080/chat)***
